@@ -12,3 +12,6 @@ gem "github-pages", "= 228"
 # even though it is included in the original GitHub Pages build infrastructure.
 gem "jekyll-include-cache", "= 0.2.1"
 gem "jekyll-octicons", "~> 14.2"
+
+# Alllow remote themes to be used in the site.
+gem "jekyll-remote-theme"
